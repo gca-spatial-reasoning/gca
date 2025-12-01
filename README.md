@@ -3,7 +3,7 @@
 <!-- <h1 align="center"><img src="assets/icon.png" align="center" width="6.5%"><strong>G<sup>2</sup>Geometrically-Constrained Agent for Spatial Reasoning</strong></h1>
 </div> -->
 
-<h1 align="center"><strong>G<sup>2</sup>Geometrically-Constrained Agent for Spatial Reasoning</strong></h1>
+<h1 align="center"><strong>Geometrically-Constrained Agent for Spatial Reasoning</strong></h1>
 </div>
 
 
@@ -40,7 +40,7 @@
 
 ## 🏠 About
 <div style="text-align: center;">
-    <img src="assets/teaser.png" alt="Dialogue_Teaser" width=100% >
+    <img src="assets/teaser.jpg" alt="Dialogue_Teaser" width=100% >
 </div>
     <strong>Geometrically-Constrained Agent (GCA)</strong> resolves the semantic-to-geometric gap by decoupling the reasoning process into Task Formalization and Constrained Geometric Computation.
 
