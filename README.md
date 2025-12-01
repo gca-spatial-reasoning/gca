@@ -35,7 +35,7 @@
 <p align="center">
   <a href="https://arxiv.org/pdf/2511.22659">📑 Paper</a>  |
   <a href="https://arxiv.org/abs/2511.22659">📖 arXiv</a>  |
-  <a href="https://github.com/InternRobotics/G2VLM">🌐 Homepage</a> |
+  <a href="https://gca-spatial-reasoning.github.io">🌐 Homepage</a> |
 </p>
 
 ## 🏠 About
@@ -47,3 +47,16 @@
 ## 📢 News
 - [Coming Soon!] 📝 We will release our code.
 - [2025-12-1] 🔥 We release the [paper](https://arxiv.org/pdf/2511.22659) of GCA.
+
+## 🔗 Citation
+
+If you find our work and this codebase helpful, please consider starring this repo 🌟 and cite:
+
+```bibtex
+@article{chen2025geometrically,
+      title={Geometrically-Constrained Agent for Spatial Reasoning}, 
+      author={Zeren, Chen and Xiaoya, Lu and Zhijie, Zheng and Pengrui, Li and Lehan, He and Yijin, Zhou and Jing, Shao and Bohan, Zhuang and Lu, Sheng},
+      journal={arXiv preprint arXiv:2511.22659},
+      year={2025}
+}
+```
