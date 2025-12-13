@@ -1,0 +1,25 @@
+{
+    "benchmark": "omnispatial",
+    "tools_to_use": [
+        "EasyOCR",
+        "FinalAnswerGenerator",
+        "GeometricReconstructor",
+        "ObjPoseEstimator",
+        "PythonTool",
+        "SemanticDetector",
+        "MetricScaleEstimator"
+    ],
+    "question_type": [
+        "Perspective_Taking",
+        "Dynamic_Reasoning"
+    ],
+    "work_dir": null,
+    "use_knowledge_augmented_code_generation": true,
+    "use_meta_planner": false,
+    "use_reasoner_for_detection": true,
+    "generate_report_on_completion": true,
+    "enable_logging": true,
+    "enable_visual_feedback": true,
+    "enable_serve_autoscaling": true,
+    "max_visuals_to_load": 8
+}  

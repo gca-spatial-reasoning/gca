@@ -1,0 +1,25 @@
+{
+    "benchmark": "mindcube",
+    "tools_to_use": [
+        "FinalAnswerGenerator",
+        "GeometricReconstructor",
+        "ObjPoseEstimator",
+        "PythonTool",
+        "SemanticDetector",
+        "LanguageToCamera"
+    ],
+    "question_type": [
+        "among",
+        "around",
+        "rotation"
+    ],
+    "work_dir": null,
+    "use_knowledge_augmented_code_generation": true,
+    "use_meta_planner": true,
+    "use_reasoner_for_detection": true,
+    "generate_report_on_completion": true,
+    "enable_logging": true,
+    "enable_visual_feedback": true,
+    "enable_serve_autoscaling": true,
+    "max_visuals_to_load": 8
+}

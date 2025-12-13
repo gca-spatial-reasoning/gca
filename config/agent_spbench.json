@@ -1,0 +1,33 @@
+{
+    "benchmark": "spbench",
+    "SIorMV": "",
+    "tools_to_use": [
+        "EasyOCR",
+        "FinalAnswerGenerator",
+        "GeometricReconstructor",
+        "ObjPoseEstimator",
+        "PythonTool",
+        "SemanticDetector",
+        "MetricScaleEstimator"
+    ],
+    "question_type": [
+        "MV_object_size_estimation",
+        "MV_object_rel_direction",
+        "MV_object_abs_distance",
+        "MV_object_rel_distance",
+        "MV_object_counting",
+        "SI_object_size_estimation",
+        "SI_object_rel_direction",
+        "SI_object_abs_distance",
+        "SI_object_rel_distance",
+        "SI_object_counting"
+    ],
+    "work_dir": null,
+    "use_knowledge_augmented_code_generation": true,
+    "use_meta_planner": false,
+    "use_reasoner_for_detection": true,
+    "generate_report_on_completion": true,
+    "enable_logging": true,
+    "enable_visual_feedback": true,
+    "max_visuals_to_load": 8
+}  
