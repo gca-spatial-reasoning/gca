@@ -43,6 +43,7 @@
     <strong>Geometrically-Constrained Agent (GCA)</strong> resolves the semantic-to-geometric gap by decoupling the reasoning process into Task Formalization and Constrained Geometric Computation.
 
 ## 📢 News
+- [2025-03] 🎉 GCA is accepted by CVPR 2026.
 - [2025-12-14] 📝 We release the code of GCA.
 - [2025-12-1] 🔥 We release the [paper](https://arxiv.org/pdf/2511.22659) of GCA.
 
