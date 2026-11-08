@@ -41,7 +41,7 @@ async def main():
 
     quesiton_type = None
     if args.question_type is None:
-        with open(os.path.join(work_dir, 'config.json')) as f:
+        with open(os.path.join(work_dir, 'config.json'), encoding='utf-8') as f:
             config = json.load(f)
             quesiton_type = config['question_type']
 
